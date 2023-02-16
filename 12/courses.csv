@@ -1,0 +1,8 @@
+"id","name","description","publication date","is_online"
+"id","Title","Duration","Start date","Class days","Group size","is_online"
+"id","name","image","is_online"
+"id","name","email","surname","birthday","phone","description","image","has_experience"
+"id","name","email","surname","description","image","position"
+"1","Name","SDSD@DSD.SD",NULL,NULL,NULL,NULL
+"2","Siarhey","sereg@mail.ru","Lutinov","Docent",NULL,"Geograf"
+"3","Anton","foxrdf@mail.ru","Bazanov","Docent",NULL,"Mat"
